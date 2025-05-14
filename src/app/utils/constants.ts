@@ -154,7 +154,7 @@ export const experience = {
         {
             company: 'Spetz Tech',
             position: 'Full Stack Engineer',
-            duration: 'Jul 2021 - Aug 2023',
+            duration: 'May 2022 - Mar 2023',
         },
     ],
 }
