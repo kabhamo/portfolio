@@ -48,7 +48,7 @@ export const homePageData = {
     hello: "Hello I'm",
     name: 'Mohamed Kabha',
     introduction:
-        'Innovative Full Stack Engineer with over 2 years of experience. Proficient in Python, JavaScript and C#, with expertise in Web and Mobile development. Seeking a dynamic and challenging role.',
+        'Innovative Full Stack Engineer with over 1 years of experience. Proficient in Python, JavaScript and C#, with expertise in Web and Mobile development. Seeking a dynamic and challenging role.',
 }
 
 export const socials = [
@@ -64,7 +64,7 @@ export const socials = [
 
 export const stats = [
     {
-        num: 2,
+        num: 1,
         text: 'Years of experience',
     },
     {
@@ -115,7 +115,7 @@ export const services = [
 export const about = {
     title: 'Aboute me',
     description:
-        'Innovative Full Stack Engineer with over 2 years of experience. Proficient in Python, JavaScript and C#, with expertise in Web and Mobile development. Seeking a dynamic and challenging role.',
+        'Innovative Full Stack Engineer with over 1 years of experience. Proficient in Python, JavaScript and C#, with expertise in Web and Mobile development. Seeking a dynamic and challenging role.',
     info: [
         {
             fieldName: 'Name',
@@ -127,7 +127,7 @@ export const about = {
         },
         {
             fieldName: 'Experience',
-            fieldValue: '2 years',
+            fieldValue: '1 years',
         },
         {
             fieldName: 'Email',
@@ -168,12 +168,12 @@ export const education = {
         {
             institution: 'Tel Aviv University',
             degree: 'MSc in Management of Technology and Information Systems',
-            duration: 'Nov 2023 - Present',
+            duration: 'Dec 2023 - Present',
         },
         {
             institution: 'Ben-Gurion University',
             degree: 'BSc in Computer Science',
-            duration: 'Sep 2019 - Sep 2022',
+            duration: 'Sep 2018 - Sep 2022',
         },
         {
             institution: 'Appleseeds',
