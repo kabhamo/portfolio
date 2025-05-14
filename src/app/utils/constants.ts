@@ -147,11 +147,6 @@ export const experience = {
         'I am driven by a passion for continuous learning and a strong desire to work on high-scalable products and distributed systems. I am eager to contribute to projects that challenge me to innovate and deliver solutions that are robust, efficient, and future-proof.',
     items: [
         {
-            company: 'Tel Aviv University',
-            position: 'Python Tutor',
-            duration: 'Nov 2023 - Present',
-        },
-        {
             company: 'Spetz Tech',
             position: 'Full Stack Engineer',
             duration: 'May 2022 - Mar 2023',
